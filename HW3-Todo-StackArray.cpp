@@ -1,8 +1,6 @@
 // ===========================================
 // Created: September 26, 2016
-// Sheila Doherty
 // Homework Assignment #3: Stack Array
-// Instructor: Elizabeth Boese
 // Description: Creates and maintains a stack
 // through an array
 // ===========================================
