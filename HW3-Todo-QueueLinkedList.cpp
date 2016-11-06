@@ -1,8 +1,6 @@
 // ===========================================
 // Created: September 26, 2016
-// Sheila Doherty
 // Homework Assignment #3: Queued Listed List
-// Instructor: Elizabeth Boese
 // Description: Creates and maintains a queue
 // through a listed list
 // ===========================================
