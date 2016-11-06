@@ -1,8 +1,6 @@
 // ===========================================
 // Created: September 26, 2016
-// Sheila Doherty
 // Homework Assignment #3: Queue Array
-// Instructor: Elizabeth Boese
 // Description: Creates and maintains a queue
 // through an array
 // ===========================================
